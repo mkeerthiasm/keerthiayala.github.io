@@ -3,14 +3,16 @@
 
 As part of ongoing SheCode Plus program. My first assignment is to create a portfolio site using a stack of front end technologies.
 
-This portfolio web application consists of 4 pages.
-1. About
-2. Projects
-3. Experience 
-4. Contact
+This portfolio web application consists of 5 pages.
+1. Home
+2. About
+3. Projects
+4. Experience 
+5. Contact
 
 Technologies used:
 1. HTML
 2. CSS
 3. JavaScript# keerthiayala.github.io
 # keerthiayala.github.io
+![ {{Home screen}}]( {{./Images/}})
