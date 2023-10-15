@@ -1,4 +1,3 @@
-<img width="700" alt="Screen Shot 2023-10-15 at 2 47 01 pm" src="https://github.com/mkeerthiasm/keerthiayala.github.io/assets/147217244/2b1ff01a-ecfe-47db-b688-6fd4498f0449"># {{ Keerthi }} - Portfolio Task
 ( {{ (https://mkeerthiasm.github.io/keerthiayala.github.io/) }} )
 
 As part of ongoing SheCode Plus program. My first assignment is to create a personalised portfolio(Keerthi) site using a stack of front end technologies.
@@ -24,5 +23,7 @@ Screeshots of the web application in different dimensions
 1.![Uploading Homescreen.png…]()
 2.<img width="693" alt="Screen Shot 2023-10-15 at 2 46 21 pm" src="https://github.com/mkeerthiasm/keerthiayala.github.io/assets/147217244/7353492a-7a8f-4650-81f9-28678d58079a">
 3.<img width="700" alt="Screen Shot 2023-10-15 at 2 47 01 pm" src="https://github.com/mkeerthiasm/keerthiayala.github.io/assets/147217244/dcc66acf-2867-4f32-b177-1ef4351ab975">
+4.<img width="700" alt="Screen Shot 2023-10-15 at 2 47 01 pm" src="https://github.com/mkeerthiasm/keerthiayala.github.io/assets/147217244/2b1ff01a-ecfe-47db-b688-6fd4498f0449"># {{ Keerthi }} - Portfolio Task
+
 
 
